@@ -1,5 +1,9 @@
 # INFO577-final-project
 
+Name: Guohao Pu
+
+475526
+
 dataset:
 
 url: https://www.kaggle.com/ruiqurm/lianjia
